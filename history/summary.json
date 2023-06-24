@@ -1,5 +1,23 @@
 [
   {
+    "name": "Bitbucket",
+    "url": "$LATENCY_BITBUCKET",
+    "icon": "https://bitbucket.org/favicon.ico?v=2",
+    "slug": "bitbucket",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Github",
     "url": "$LATENCY_GITHUB",
     "icon": "https://github.githubassets.com/favicons/favicon.svg",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 107,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 121,
+    "timeDay": 113,
+    "timeWeek": 121,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   }
 ]
