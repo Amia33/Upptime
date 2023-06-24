@@ -15,6 +15,9 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 sites:
+  - name: Bitbucket
+    url: $LATENCY_BITBUCKET
+    icon: https://bitbucket.org/favicon.ico?v=2
   - name: Github
     url: $LATENCY_GITHUB
     icon: https://github.githubassets.com/favicons/favicon.svg
