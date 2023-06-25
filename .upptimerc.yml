@@ -18,6 +18,9 @@ sites:
   - name: Bitbucket
     url: $LATENCY_BITBUCKET
     icon: https://bitbucket.org/favicon.ico?v=2
+  - name: Cloudflare
+    url: $LATENCY_CLOUDFLARE
+    icon: https://dash.cloudflare.com/favicon.ico
   - name: Github
     url: $LATENCY_GITHUB
     icon: https://github.githubassets.com/favicons/favicon.svg
