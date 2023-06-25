@@ -15,6 +15,9 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 sites:
+  - name: Blog
+    url: $LATENCY_BLOG
+    icon: https://dash.cloudflare.com/favicon.ico
   - name: Bitbucket
     url: $LATENCY_BITBUCKET
     icon: https://bitbucket.org/favicon.ico?v=2
