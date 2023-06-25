@@ -33,6 +33,9 @@ sites:
   - name: Netlify
     url: $LATENCY_NETLIFY
     icon: https://www.netlify.com/favicon.ico
+  - name: Render
+    url: $LATENCY_RENDER
+    icon: https://dashboard.render.com/favicon.ico
   - name: Sourceforge
     url: $LATENCY_SOURCEFORGE
     icon: https://a.fsdn.com/con/img/sandiego/logo-180x180.png
