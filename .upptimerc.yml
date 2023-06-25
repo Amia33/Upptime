@@ -29,7 +29,10 @@ sites:
     icon: https://gitlab.com/assets/favicon-yellow-018213ceb87b472388095d0264be5b4319ef47471dacea03c83ecc233ced2fd5.png
   - name: Google Firebase
     url: $LATENCY_FIREBASE
-    icon: https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/favicon.ico
+    icon: https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/favicon.ico\
+  - name: Netlify
+    url: $LATENCY_NETLIFY
+    icon: https://www.netlify.com/favicon.ico
   - name: Sourceforge
     url: $LATENCY_SOURCEFORGE
     icon: https://a.fsdn.com/con/img/sandiego/logo-180x180.png
