@@ -27,6 +27,9 @@ sites:
   - name: Google Firebase
     url: $LATENCY_FIREBASE
     icon: https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/favicon.ico
+  - name: Surge
+    url: $LATENCY_SURGE
+    icon: https://surge.sh/images/logos/svg/surge-logo.svg
 
 assignees: # Users to assign downtime issues (optional)
   - Amia33
