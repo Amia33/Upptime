@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 244,
-    "timeWeek": 244,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 148,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 117,
+    "timeDay": 103,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 374,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "time": 468,
+    "timeDay": 468,
+    "timeWeek": 468,
+    "timeMonth": 468,
+    "timeYear": 468,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Google Firebase",
+    "url": "$LATENCY_FIREBASE",
+    "icon": "https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/favicon.ico",
+    "slug": "google-firebase",
+    "status": "down",
+    "uptime": "22.50%",
+    "uptimeDay": "22.50%",
+    "uptimeWeek": "22.50%",
+    "uptimeMonth": "22.50%",
+    "uptimeYear": "22.50%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-06-25": 0
+    }
   }
 ]
