@@ -45,6 +45,9 @@ sites:
   - name: Vercel
     url: $LATENCY_VERCEL
     icon: https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png
+  - name: VM PVG
+    url: $LATENCY_VM_PVG
+    icon: https://dash.cloudflare.com/favicon.ico
 
 assignees: # Users to assign downtime issues (optional)
   - Amia33
