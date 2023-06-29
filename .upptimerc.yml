@@ -52,6 +52,7 @@ sites:
     url: $LATENCY_VM_NKG_2
     icon: https://dash.cloudflare.com/favicon.ico
   - name: VM NRT
+    check: "tcp-ping"
     url: $LATENCY_VM_NRT
     icon: https://dash.cloudflare.com/favicon.ico
   - name: VM PVG
