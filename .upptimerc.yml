@@ -45,6 +45,12 @@ sites:
   - name: Vercel
     url: $LATENCY_VERCEL
     icon: https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png
+  - name: VM NKG
+    url: $LATENCY_VM_NKG
+    icon: https://dash.cloudflare.com/favicon.ico
+  - name: VM NKG 2
+    url: $LATENCY_VM_NKG_2
+    icon: https://dash.cloudflare.com/favicon.ico
   - name: VM PVG
     url: $LATENCY_VM_PVG
     icon: https://dash.cloudflare.com/favicon.ico
