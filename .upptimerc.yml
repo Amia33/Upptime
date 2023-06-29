@@ -54,6 +54,7 @@ sites:
   - name: VM NRT
     url: $LATENCY_VM_NRT
     icon: https://dash.cloudflare.com/favicon.ico
+    __dangerous__insecure: true
   - name: VM PVG
     url: $LATENCY_VM_PVG
     icon: https://dash.cloudflare.com/favicon.ico
