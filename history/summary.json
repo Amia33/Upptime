@@ -152,19 +152,19 @@
     "url": "$LATENCY_SURGE",
     "icon": "https://surge.sh/images/logos/svg/surge-logo.svg",
     "slug": "surge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 731,
-    "timeDay": 565,
-    "timeWeek": 1071,
-    "timeMonth": 731,
-    "timeYear": 731,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 816,
+    "timeDay": 2713,
+    "timeWeek": 1450,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-24": 8
     }
   },
   {
