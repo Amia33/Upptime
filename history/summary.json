@@ -44,7 +44,7 @@
     "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "98.61%",
     "time": 200,
     "timeDay": 282,
@@ -116,19 +116,19 @@
     "url": "$LATENCY_NETLIFY",
     "icon": "https://www.netlify.com/favicon.ico",
     "slug": "netlify",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 390,
     "timeDay": 221,
     "timeWeek": 283,
     "timeMonth": 391,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2023-07-25": 7
+      "2023-07-25": 0
     }
   },
   {
