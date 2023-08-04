@@ -154,9 +154,9 @@
     "url": "$LATENCY_SURGE",
     "icon": "https://surge.sh/images/logos/svg/surge-logo.svg",
     "slug": "surge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,7 +165,9 @@
     "timeWeek": 570,
     "timeMonth": 861,
     "timeYear": 794,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-04": 0
+    }
   },
   {
     "name": "Vercel",
