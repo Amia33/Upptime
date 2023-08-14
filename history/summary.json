@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 187,
-    "timeWeek": 179,
+    "time": 199,
+    "timeDay": 88,
+    "timeWeek": 166,
     "timeMonth": 162,
-    "timeYear": 201,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 237,
-    "timeWeek": 3619,
-    "timeMonth": 1127,
-    "timeYear": 693,
+    "time": 687,
+    "timeDay": 238,
+    "timeWeek": 3623,
+    "timeMonth": 1117,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://dash.cloudflare.com/favicon.ico",
     "slug": "cloudflare",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
-    "time": 187,
-    "timeDay": 153,
-    "timeWeek": 137,
-    "timeMonth": 164,
-    "timeYear": 187,
+    "uptimeYear": "99.16%",
+    "time": 185,
+    "timeDay": 80,
+    "timeWeek": 129,
+    "timeMonth": 163,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2023-06-25": 606
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 346,
-    "timeWeek": 149,
-    "timeMonth": 176,
-    "timeYear": 205,
+    "time": 204,
+    "timeDay": 124,
+    "timeWeek": 147,
+    "timeMonth": 175,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 499,
-    "timeWeek": 416,
-    "timeMonth": 491,
-    "timeYear": 489,
+    "time": 491,
+    "timeDay": 654,
+    "timeWeek": 442,
+    "timeMonth": 494,
+    "timeYear": 491,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 131,
-    "timeDay": 103,
-    "timeWeek": 98,
+    "time": 130,
+    "timeDay": 32,
+    "timeWeek": 87,
     "timeMonth": 112,
-    "timeYear": 131,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2023-06-25": 65
     }
@@ -122,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 334,
-    "timeDay": 241,
-    "timeWeek": 203,
-    "timeMonth": 248,
-    "timeYear": 334,
+    "time": 332,
+    "timeDay": 237,
+    "timeWeek": 202,
+    "timeMonth": 239,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2023-07-25": 24
     }
@@ -142,11 +142,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.89%",
-    "time": 341,
-    "timeDay": 255,
-    "timeWeek": 292,
+    "time": 338,
+    "timeDay": 166,
+    "timeWeek": 262,
     "timeMonth": 327,
-    "timeYear": 341,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2023-08-11": 76
     }
@@ -157,18 +157,17 @@
     "icon": "https://surge.sh/images/logos/svg/surge-logo.svg",
     "slug": "surge",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.85%",
     "time": 879,
-    "timeDay": 582,
-    "timeWeek": 565,
-    "timeMonth": 1074,
+    "timeDay": 779,
+    "timeWeek": 623,
+    "timeMonth": 1084,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2023-08-13": 8,
       "2023-08-09": 18,
       "2023-08-04": 87
     }
@@ -184,11 +183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 129,
-    "timeWeek": 146,
-    "timeMonth": 154,
-    "timeYear": 157,
+    "time": 155,
+    "timeDay": 40,
+    "timeWeek": 127,
+    "timeMonth": 152,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   }
 ]
