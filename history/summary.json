@@ -78,7 +78,7 @@
     "url": "$LATENCY_GITLAB",
     "icon": "https://gitlab.com/assets/favicon-yellow-018213ceb87b472388095d0264be5b4319ef47471dacea03c83ecc233ced2fd5.png",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
