@@ -4,19 +4,19 @@
     "url": "$LATENCY_BLOG",
     "icon": "https://dash.cloudflare.com/favicon.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 1146,
-    "timeWeek": 408,
-    "timeMonth": 289,
+    "timeDay": 836,
+    "timeWeek": 386,
+    "timeMonth": 287,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 8
     }
   },
   {
