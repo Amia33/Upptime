@@ -22,9 +22,9 @@
     "url": "$LATENCY_BITBUCKET",
     "icon": "https://bitbucket.org/favicon.ico?v=2",
     "slug": "bitbucket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 243,
     "timeMonth": 325,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   },
   {
     "name": "Cloudflare",
