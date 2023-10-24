@@ -1,7 +1,7 @@
 url: $LATENCY_SURGE
-status: down
-code: 503
-responseTime: 4624
-lastUpdated: 2023-10-24T18:14:37.886Z
+status: up
+code: 200
+responseTime: 334
+lastUpdated: 2023-10-24T18:29:35.704Z
 startTime: 2023-06-25T01:00:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
