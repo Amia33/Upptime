@@ -1,7 +1,7 @@
 url: $LATENCY_BLOG
-status: up
-code: 200
-responseTime: 109
-lastUpdated: 2023-10-29T23:10:25.544Z
+status: down
+code: 500
+responseTime: 84
+lastUpdated: 2023-10-30T19:58:26.158Z
 startTime: 2023-06-25T16:34:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
