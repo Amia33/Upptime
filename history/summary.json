@@ -4,18 +4,20 @@
     "url": "$LATENCY_BLOG",
     "icon": "https://dash.cloudflare.com/favicon.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 109,
-    "timeWeek": 139,
-    "timeMonth": 169,
-    "timeYear": 208,
-    "dailyMinutesDown": {}
+    "time": 207,
+    "timeDay": 97,
+    "timeWeek": 132,
+    "timeMonth": 166,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Bitbucket",
@@ -40,18 +42,19 @@
     "url": "$LATENCY_CLOUDFLARE",
     "icon": "https://dash.cloudflare.com/favicon.ico",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 185,
+    "time": 184,
     "timeDay": 92,
-    "timeWeek": 168,
-    "timeMonth": 190,
-    "timeYear": 185,
+    "timeWeek": 159,
+    "timeMonth": 187,
+    "timeYear": 184,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2023-06-25": 606
     }
   },
@@ -80,9 +83,9 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 622,
     "timeDay": 565,
@@ -90,7 +93,6 @@
     "timeMonth": 506,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2023-10-30": 8,
       "2023-08-27": 16
     }
   },
