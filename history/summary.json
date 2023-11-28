@@ -24,19 +24,19 @@
     "url": "$LATENCY_BITBUCKET",
     "icon": "https://bitbucket.org/favicon.ico?v=2",
     "slug": "bitbucket",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 454,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 453,
     "timeDay": 295,
-    "timeWeek": 302,
-    "timeMonth": 270,
-    "timeYear": 454,
+    "timeWeek": 301,
+    "timeMonth": 271,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2023-11-28": 0
+      "2023-11-28": 20
     }
   },
   {
