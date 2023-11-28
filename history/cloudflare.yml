@@ -1,7 +1,7 @@
 url: $LATENCY_CLOUDFLARE
-status: down
-code: 403
-responseTime: 75
-lastUpdated: 2023-11-28T18:31:14.162Z
+status: up
+code: 200
+responseTime: 93
+lastUpdated: 2023-11-28T18:39:59.323Z
 startTime: 2023-06-25T02:57:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
