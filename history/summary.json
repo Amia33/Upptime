@@ -24,9 +24,9 @@
     "url": "$LATENCY_BITBUCKET",
     "icon": "https://bitbucket.org/favicon.ico?v=2",
     "slug": "bitbucket",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 302,
     "timeMonth": 270,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-28": 0
+    }
   },
   {
     "name": "Cloudflare",
@@ -162,11 +164,11 @@
     "icon": "https://surge.sh/images/logos/svg/surge-logo.svg",
     "slug": "surge",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.44%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.09%",
     "time": 1700,
     "timeDay": 641,
     "timeWeek": 515,
