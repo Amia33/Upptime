@@ -1,7 +1,7 @@
 url: $LATENCY_BITBUCKET
-status: down
-code: 503
-responseTime: 123
-lastUpdated: 2023-12-09T18:06:54.241Z
+status: up
+code: 200
+responseTime: 276
+lastUpdated: 2023-12-09T22:34:14.325Z
 startTime: 2023-06-24T14:49:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
