@@ -1,7 +1,7 @@
 url: $LATENCY_VERCEL
-status: down
-code: 500
-responseTime: 1410
-lastUpdated: 2024-01-17T21:51:29.871Z
+status: up
+code: 200
+responseTime: 176
+lastUpdated: 2024-01-17T21:59:07.751Z
 startTime: 2023-06-25T13:18:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
