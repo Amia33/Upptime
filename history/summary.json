@@ -24,7 +24,7 @@
     "url": "$LATENCY_BITBUCKET",
     "icon": "https://bitbucket.org/favicon.ico?v=2",
     "slug": "bitbucket",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "97.86%",
     "uptimeWeek": "99.69%",
