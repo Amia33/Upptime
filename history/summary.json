@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 459,
-    "timeWeek": 217,
-    "timeMonth": 193,
+    "timeDay": 0,
+    "timeWeek": 230,
+    "timeMonth": 196,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2023-10-30": 26
@@ -25,15 +25,15 @@
     "icon": "https://bitbucket.org/favicon.ico?v=2",
     "slug": "bitbucket",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 693,
-    "timeDay": 92,
-    "timeWeek": 174,
-    "timeMonth": 2931,
+    "timeDay": 0,
+    "timeWeek": 157,
+    "timeMonth": 3016,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2024-02-22": 71,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 193,
-    "timeDay": 106,
-    "timeWeek": 162,
-    "timeMonth": 217,
+    "timeDay": 0,
+    "timeWeek": 169,
+    "timeMonth": 220,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2023-10-30": 26,
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 64,
-    "timeWeek": 132,
-    "timeMonth": 107,
+    "timeDay": 0,
+    "timeWeek": 142,
+    "timeMonth": 108,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 317,
-    "timeWeek": 378,
-    "timeMonth": 464,
+    "timeDay": 0,
+    "timeWeek": 400,
+    "timeMonth": 463,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2023-08-27": 16
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 93,
-    "timeDay": 30,
-    "timeWeek": 111,
-    "timeMonth": 71,
+    "timeDay": 0,
+    "timeWeek": 124,
+    "timeMonth": 72,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2023-06-25": 65
@@ -132,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 145,
-    "timeWeek": 109,
-    "timeMonth": 154,
+    "timeDay": 0,
+    "timeWeek": 115,
+    "timeMonth": 156,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2023-07-25": 24
@@ -152,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 302,
-    "timeDay": 213,
-    "timeWeek": 313,
-    "timeMonth": 293,
+    "timeDay": 0,
+    "timeWeek": 327,
+    "timeMonth": 294,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2023-08-11": 76
@@ -167,17 +167,16 @@
     "slug": "surge",
     "status": "up",
     "uptime": "98.13%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "98.13%",
     "time": 1438,
-    "timeDay": 665,
-    "timeWeek": 523,
-    "timeMonth": 942,
+    "timeDay": 554,
+    "timeWeek": 547,
+    "timeMonth": 956,
     "timeYear": 1438,
     "dailyMinutesDown": {
-      "2024-03-11": 10,
       "2024-03-04": 15,
       "2024-02-27": 54,
       "2024-02-17": 71,
@@ -204,7 +203,7 @@
       "2023-10-17": 35,
       "2023-10-16": 70,
       "2023-10-15": 288,
-      "2023-10-14": 2
+      "2023-10-14": 21
     }
   },
   {
@@ -219,9 +218,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 79,
-    "timeWeek": 120,
-    "timeMonth": 140,
+    "timeDay": 0,
+    "timeWeek": 127,
+    "timeMonth": 137,
     "timeYear": 149,
     "dailyMinutesDown": {}
   }
