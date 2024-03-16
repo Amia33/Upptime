@@ -1,7 +1,7 @@
 url: $LATENCY_NETLIFY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-16T04:51:14.779Z
+status: up
+code: 200
+responseTime: 142
+lastUpdated: 2024-03-16T04:58:15.211Z
 startTime: 2023-06-25T03:21:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
